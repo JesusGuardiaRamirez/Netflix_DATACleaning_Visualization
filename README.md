@@ -28,3 +28,8 @@ After checking column by column I found out that the Country's columns has 287 f
 
 
 ![Captura de pantalla 2023-06-26 a las 18 57 31](https://github.com/JesusGuardiaRamirez/Netflix_DATACleaning_Visualization/assets/125477881/eac263ee-dce6-4033-bd7a-0457a1fa79fb)
+
+
+I decided after checking values, columns, duplicates and the rest, I decided that the Data Frame should be split between Movies & TV Shows
+
+![Captura de pantalla 2023-06-26 a las 19 00 41](https://github.com/JesusGuardiaRamirez/Netflix_DATACleaning_Visualization/assets/125477881/6b59ec26-11ce-4778-9c79-931c18721f81)
