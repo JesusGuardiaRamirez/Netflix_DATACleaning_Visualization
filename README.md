@@ -32,7 +32,12 @@ After checking column by column I found out that the Country's columns has 287 f
 
 I wanted to check how much percetage there is with the Not Given DATA - which it looks a lot to me as follow:
 
+Country only 3.27%
+Directors has 29.44 (almost a third of the total Data) which is around -Total Number of Rows: 29853
+
 ![Captura de pantalla 2023-06-26 a las 19 05 05](https://github.com/JesusGuardiaRamirez/Netflix_DATACleaning_Visualization/assets/125477881/d18beee9-ba11-434f-871b-b6a80aadfd1b)
+![Captura de pantalla 2023-06-26 a las 19 10 57](https://github.com/JesusGuardiaRamirez/Netflix_DATACleaning_Visualization/assets/125477881/79e9cf82-22e0-40ba-a76d-b058443a4707)
+
 
 
 I decided after checking values, columns, duplicates and the rest, I decided that the Data Frame should be split between Movies & TV Shows
