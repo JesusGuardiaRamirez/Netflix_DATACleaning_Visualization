@@ -23,7 +23,7 @@ First of all, we get the info about the CSV we are going to work with, and tidy 
 
 
 
-After checking column by column I found out that the Country's columns has 287 films that there is no DATA to see where it comes from, which it happens the same with the column of Directors, that we do not know which directed this films..
+After checking column by column I found out that the Country's columns has 287 films that there is no DATA to see where it comes from, which it happens the same with the column of Directors, that we do not know who directed this films/ TV Shows..
 
 
 
