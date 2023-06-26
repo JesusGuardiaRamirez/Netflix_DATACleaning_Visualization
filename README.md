@@ -20,3 +20,11 @@ Main libraries:
 First of all, we get the info about the CSV we are going to work with, and tidy the columns names up. Having 8789 entries and 10 columns in total.
 
 ![Captura de pantalla 2023-06-26 a las 18 50 42](https://github.com/JesusGuardiaRamirez/Netflix_DATACleaning_Visualization/assets/125477881/32f8a809-9c29-4607-ae44-a768e2cc0ba1)
+
+
+
+After checking column by column I found out that the Country's columns has 287 films that there is no DATA to see where it comes from, which it happens the same with the column of Directors, that we do not know which directed this films..
+
+
+
+![Captura de pantalla 2023-06-26 a las 18 57 31](https://github.com/JesusGuardiaRamirez/Netflix_DATACleaning_Visualization/assets/125477881/eac263ee-dce6-4033-bd7a-0457a1fa79fb)
