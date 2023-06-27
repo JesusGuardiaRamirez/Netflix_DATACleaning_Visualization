@@ -116,4 +116,23 @@ Top of 5 Directors that has produced more TV SHOWS:
 
  ![Captura de pantalla 2023-06-27 a las 17 53 24](https://github.com/JesusGuardiaRamirez/Netflix_DATACleaning_Visualization/assets/125477881/e26dc66b-e7f8-45ce-bbb1-57ced7f5fbf1)
 
-       
+
+
+
+ Top 10 Categories including TV Shows and Movies:
+
+
+ ![Captura de pantalla 2023-06-27 a las 17 56 00](https://github.com/JesusGuardiaRamirez/Netflix_DATACleaning_Visualization/assets/125477881/3cad07ff-05ec-4199-bd9c-e0fb73b51626)
+
+
+Most Shows / Movies where released around 2020
+
+
+![Captura de pantalla 2023-06-27 a las 17 57 29](https://github.com/JesusGuardiaRamirez/Netflix_DATACleaning_Visualization/assets/125477881/18e1b344-1551-4bdb-acf0-31f4771298d0)
+
+
+
+And lastly, top 15 countries that has reproduced the most, having USA on the head. 
+
+
+![Captura de pantalla 2023-06-27 a las 17 58 16](https://github.com/JesusGuardiaRamirez/Netflix_DATACleaning_Visualization/assets/125477881/27ce1d57-10de-45cd-90ea-d55ef9b9b59a)
