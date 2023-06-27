@@ -43,3 +43,8 @@ Directors has 29.44 (almost a third of the total Data) which is around -Total Nu
 I decided after checking values, columns, duplicates and the rest, I decided that the Data Frame should be split between Movies & TV Shows
 
 ![Captura de pantalla 2023-06-26 a las 19 00 41](https://github.com/JesusGuardiaRamirez/Netflix_DATACleaning_Visualization/assets/125477881/6b59ec26-11ce-4778-9c79-931c18721f81)
+
+
+
+![Captura de pantalla 2023-06-27 a las 17 43 51](https://github.com/JesusGuardiaRamirez/Netflix_DATACleaning_Visualization/assets/125477881/a2eb9b6a-e006-404b-ac45-84b0540dfe0a)
+
