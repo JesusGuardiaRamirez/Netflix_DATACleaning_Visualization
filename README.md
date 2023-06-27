@@ -50,7 +50,7 @@ I decided after checking values, columns, duplicates and the rest, I decided tha
 
 ### VISUALIZATION
 
-Top of 10 Countries that has produced more films:
+Top of 10 Countries that has produced more TV SHOWS:
 
         United States     845
         Pakistan          350
@@ -66,3 +66,22 @@ Top of 10 Countries that has produced more films:
 
 
 ![Captura de pantalla 2023-06-27 a las 17 46 08](https://github.com/JesusGuardiaRamirez/Netflix_DATACleaning_Visualization/assets/125477881/2ba98609-aec3-470a-9e91-4c53e963bdbf)
+
+
+Top of 10 Countries that has produced more MOVIES:
+
+
+        United States     2395
+        India              976
+        United Kingdom     387
+        Canada             187
+        France             148
+        Spain              129
+        Egypt              109
+        Nigeria             96
+        Mexico              90
+        Japan               87
+
+
+ ![Captura de pantalla 2023-06-27 a las 17 49 38](https://github.com/JesusGuardiaRamirez/Netflix_DATACleaning_Visualization/assets/125477881/6a4db95a-298f-4ede-859c-eb730951fdb6)
+       
