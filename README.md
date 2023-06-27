@@ -44,7 +44,6 @@ I decided after checking values, columns, duplicates and the rest, I decided tha
 
 ![Captura de pantalla 2023-06-26 a las 19 00 41](https://github.com/JesusGuardiaRamirez/Netflix_DATACleaning_Visualization/assets/125477881/6b59ec26-11ce-4778-9c79-931c18721f81)
 
+![Captura de pantalla 2023-06-27 a las 17 44 52](https://github.com/JesusGuardiaRamirez/Netflix_DATACleaning_Visualization/assets/125477881/20db4411-bac1-48e3-a72a-3b66cb3cc932)
 
-
-![Captura de pantalla 2023-06-27 a las 17 43 51](https://github.com/JesusGuardiaRamirez/Netflix_DATACleaning_Visualization/assets/125477881/a2eb9b6a-e006-404b-ac45-84b0540dfe0a)
 
