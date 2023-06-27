@@ -47,6 +47,9 @@ I decided after checking values, columns, duplicates and the rest, I decided tha
 ![Captura de pantalla 2023-06-27 a las 17 44 52](https://github.com/JesusGuardiaRamirez/Netflix_DATACleaning_Visualization/assets/125477881/20db4411-bac1-48e3-a72a-3b66cb3cc932)
 
 
+![Captura de pantalla 2023-06-27 a las 17 54 37](https://github.com/JesusGuardiaRamirez/Netflix_DATACleaning_Visualization/assets/125477881/027bf372-026e-4d2e-b7d6-49045b84774a)
+
+
 
 ### VISUALIZATION
 
