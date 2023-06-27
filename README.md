@@ -47,3 +47,22 @@ I decided after checking values, columns, duplicates and the rest, I decided tha
 ![Captura de pantalla 2023-06-27 a las 17 44 52](https://github.com/JesusGuardiaRamirez/Netflix_DATACleaning_Visualization/assets/125477881/20db4411-bac1-48e3-a72a-3b66cb3cc932)
 
 
+
+### VISUALIZATION
+
+Top of 10 Countries that has produced more films:
+
+United States     845
+Pakistan          350
+United Kingdom    251
+Japan             172
+South Korea       165
+Canada             84
+India              81
+Taiwan             71
+France             65
+Australia          53
+
+
+
+![Captura de pantalla 2023-06-27 a las 17 46 08](https://github.com/JesusGuardiaRamirez/Netflix_DATACleaning_Visualization/assets/125477881/2ba98609-aec3-470a-9e91-4c53e963bdbf)
