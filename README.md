@@ -52,16 +52,16 @@ I decided after checking values, columns, duplicates and the rest, I decided tha
 
 Top of 10 Countries that has produced more films:
 
-United States     845
-Pakistan          350
-United Kingdom    251
-Japan             172
-South Korea       165
-Canada             84
-India              81
-Taiwan             71
-France             65
-Australia          53
+                        United States     845
+                        Pakistan          350
+                        United Kingdom    251
+                        Japan             172
+                        South Korea       165
+                        Canada             84
+                        India              81
+                        Taiwan             71
+                        France             65
+                        Australia          53
 
 
 
