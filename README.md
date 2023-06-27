@@ -84,4 +84,33 @@ Top of 10 Countries that has produced more MOVIES:
 
 
  ![Captura de pantalla 2023-06-27 a las 17 49 38](https://github.com/JesusGuardiaRamirez/Netflix_DATACleaning_Visualization/assets/125477881/6a4db95a-298f-4ede-859c-eb730951fdb6)
+
+
+Top of 5 Directors that has produced more MOVIES:
+
+        Rajiv Chilaka             19
+        Raúl Campos, Jan Suter    18
+        Suhas Kadav               16
+        Marcus Raboy              15
+        Jay Karas                 14
+
+
+
+
+
+ ![Captura de pantalla 2023-06-27 a las 17 52 11](https://github.com/JesusGuardiaRamirez/Netflix_DATACleaning_Visualization/assets/125477881/bfe4d0f9-ab49-477c-bec9-721d275700b7)
+
+
+Top of 5 Directors that has produced more TV SHOWS:
+
+
+        Alastair Fothergill             14
+        Mark Thornton, Todd Kauffman     5
+        Stan Lathan                      3
+        Iginio Straffi                   2
+        Rob Seidenglanz                  2
+
+
+ ![Captura de pantalla 2023-06-27 a las 17 53 24](https://github.com/JesusGuardiaRamirez/Netflix_DATACleaning_Visualization/assets/125477881/e26dc66b-e7f8-45ce-bbb1-57ced7f5fbf1)
+
        
